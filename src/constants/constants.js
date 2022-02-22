@@ -12,7 +12,7 @@ export const projects = [
   {
     title: "Porter Clone",
     description:
-      "Buiding the Backend and frontend of porter.in using ejs CSS,Javascript, express js, node js and mongoo db. Major pages include home page, packers and movers page , For Enterprice page , Driver Partners page",
+      "Buiding the Backend and frontend of porter.in using ejs CSS,Javascript, express js, node js and mongoo db. Major pages include home page, packers and movers page , For Enterprice page , Driver Partners page.We have tried to make the same site with our effects and technolgy.",
     image: "/images/2.png",
     tags: ["NodeJS", "ExpressJS", "MongoDB"],
     source: "https://github.com/Tushar-chauhan198/porterClone_Backend/tree/main/porterClone_Backend-main/porterClone_Backend-main",
