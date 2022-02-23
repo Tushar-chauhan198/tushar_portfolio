@@ -30,9 +30,13 @@ const Timeline = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Passionate software engineer, with strong design, problem-solving skills
-        and in depth knowledge of Javascript, NodeJS, ExpressJS and MongoDB,
-        seeking to work with a reputed technology driven firm.
+        Logical and organized individual with a strong foundation in
+software engineering. Proficient in JavaScript, C . Seeking to raise
+coding KPIs by providing error-free codes. Ability to translate
+business requirements into innovative software solutions. Excellent
+teamwork, interpersonal and communication skills. Looking to start a
+career as an entry-level professional with a reputed IT company.
+
       </SectionText>
     </Section>
   );
