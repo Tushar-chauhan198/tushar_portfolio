@@ -31,6 +31,10 @@ const Footer = () => {
           <LinkItem href="mailto:tc21085@gmail.com">
             tc21085@gmail.com
           </LinkItem>
+           <LinkColumn>
+          <LinkTitle>✉️ Location</LinkTitle>
+          <LinkItem href="Hapur">Hapur,Pilkhuwa</LinkItem>
+        </LinkColumn>
         </LinkColumn>
       </LinkList>
       <Contact />
