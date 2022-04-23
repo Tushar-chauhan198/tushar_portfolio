@@ -34,7 +34,7 @@ const Footer = () => {
             </LinkColumn>
            <LinkColumn>
           <LinkTitle>✉️ Location</LinkTitle>
-          <LinkItem href="Hapur">Pilkhuwa, Hapur</LinkItem>
+          <LinkItem href="Hapur"> Hapur</LinkItem>
         
         </LinkColumn>
       </LinkList>
